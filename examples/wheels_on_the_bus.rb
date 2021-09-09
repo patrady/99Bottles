@@ -34,7 +34,7 @@ class WheelsOnTheBus
       "The doors on the bus go open and shut;
       Open and shut;
       Open and shut.
-      The doors on the bus go open and shut;
+      The doors on the bus go open and shut,
       all through the town."
   end
 end
