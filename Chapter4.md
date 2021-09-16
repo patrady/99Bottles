@@ -107,7 +107,7 @@ It was genius to substitute 99 for `quantity(99)`
 
 Great refactoring to cleanup the `number - 1` with `successor(number)`!
 
-Surprisingly the metrics got worse once the refactoring was done compared to Shameless Green! Despite the complexity score, the code _is_ better. An improvement has been made that is invisible to static analysis tools.
+Surprisingly the metrics got worse once the refactoring was done compared to Shameless Green! Despite the complexity score, the code _is_ better. An improvement has been made that is invisible to static analysis tools. What's important is that you have identified the domain objects that create the verses.
 
 ## 4.10 Closing Statement
 
