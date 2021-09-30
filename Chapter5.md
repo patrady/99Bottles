@@ -70,6 +70,7 @@ Questions (Note: `quantity`, `container`, `action`, `pronoun`, and `successor` a
   - Yes, all of them which is a result of the flocking rules. If they were written differently (guard clause vs ternary vs if/else) then it would disguise their shape. Devs automatically assume that differences exist for a reason but they actually don't have to.
 
   - **Squint Test**: A code same-ness test conducted by squinting your eyes so you can no longer see the code but only the structure/color differences
+    - Note that ternary clauses cause the structure to be muddled instead if you were to use `if` statements
 
 - _Question 2: Do any methods take an argument of the same name?_
 
