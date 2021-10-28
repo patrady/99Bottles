@@ -144,6 +144,10 @@ It's hard for devs to accept immutability because it requires a mind-shift chang
 
 > "There are only two hard things in Computer Science: cache invalidation and naming things". - Phil Karlton
 
+Better quote:
+
+> "There are only two hard things in Computer Science: cache invalidation, naming things and off-by-one errors".
+
 Moral of the story: Only resort to caching if you have to. There are plenty of other ways to speed up your code without resorting to caching. _If you require the speed increase, any cost is cheap. If you don't, every cost is too much._
 
 ## 5.5 Creating `BottleNumbers`
